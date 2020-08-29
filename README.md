@@ -88,15 +88,20 @@ b) Run puppeth command and choose the options as shown in the screen shot below.
 </p>
 <br>
 
- Make a transaction:
+ Make a transaction and check its status:
+ <br>
  <p align="center">
 <img src="./images/Transaction1.png?raw=true" alt="Sublime's custom image"/>
 </p>
-
-
+<br>
+ <p align="center">
+<img src="./images/Transaction2.png?raw=true" alt="Sublime's custom image"/>
+<br>
+</p>
  <p align="center">
 <img src="./images/Transaction4.png?raw=true" alt="Sublime's custom image"/>
 </p>
 
 <br>
-Check the transaction status after some time. It should be successful.
+## *Because of some unknown issue, Proof of authority is preventing the node 1 from mining so we didn't get any confirmations. It worked fine when we used the "Proof of work".
+
