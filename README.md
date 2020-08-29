@@ -9,7 +9,8 @@ We'll use the following tools to create the blockchain network:
 2. Geth - to create keys, initialize nodes, and connect the nodes together.
 <br>
 <br>
-## _Setting up the network and creating the nodes:_
+
+## _Setting up the network and running the nodes:_
 <br>
 
 a) Run gitbash and change to directory containing the blockchain tools.
