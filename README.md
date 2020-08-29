@@ -19,9 +19,9 @@ b) Run puppeth command and choose the options as shown in the screen shot below.
 <br>
 <br>
 
-    You will have to provide a network name to start with. Then you wil be propmted with option related to the genesis configuration. 
+   You will have to provide a network name to start with. Then you wil be propmted with option related to the genesis configuration. 
 
-    Use "Clique (Proof of Authority)" as consensus algorithm and provide a network ID that you will use later in mycrypto to connect to this network. 
+   Use "Clique (Proof of Authority)" as consensus algorithm and provide a network ID that you will use later in mycrypto to connect to this network. 
 
 <p align="center">
 <img src="./images/Puppeth1.png?raw=true" alt="Sublime's custom image"/>
