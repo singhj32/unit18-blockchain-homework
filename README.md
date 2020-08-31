@@ -104,5 +104,5 @@ b) Run puppeth command and choose the options as shown in the screen shot below.
 
 <br>
 
-## Because of some unknown issue, Proof of authority is preventing the node 1 from mining so we didn't get any confirmations. It worked fine when we used the "Proof of work"
+### *Because of some unknown issue, Proof of authority is preventing the node 1 from mining so we didn't get any confirmations. It worked fine when we used the "Proof of work"
 
